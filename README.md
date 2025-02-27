@@ -94,4 +94,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![Keathan01 stats]()
+(![Keathan01's Stats](https://github-readme-stats.vercel.app/api?username=Keathan01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))

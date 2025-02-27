@@ -84,7 +84,11 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+- 🔥 I have an unquenchable desire to learn new things and develop new skills.
+- 🐣 While this might be my first time learning about code i do have some experience with computer systems and hardware design.
+- 📖 My Favorite bible verse Philippians 4:13 (I can do all things through Christ who strengthens me!) 
+- 🌋 Last but certainly not least i am really excited to pursue a career in software development and i cant wait to discover what lies ahead of this long arduous journey.
+
 
 ---
 
